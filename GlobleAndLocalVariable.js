@@ -5,11 +5,8 @@ function greet(u){
     console.log(`Hello ${u}`);
 }
 
-
 let usr = 'ans'
-
 greet(usr);
-
 // console.log(num); // can't excess local varible
 
 
